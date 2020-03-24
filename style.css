@@ -1,0 +1,36 @@
+h3 {
+  margin-top: 10%;
+}
+
+h3, p, a {
+  font-family: 'Baloo 2', cursive;
+  margin-left: 35%;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 28px;
+}
+
+a {
+  font-size: 20px;
+}
+
+.first-letter {
+  font-size: 56px;
+}
+
+.dark:hover {
+  color:blue;
+}
+
+.light:hover {
+  color: yellow;
+}
+
+.gentle:hover {
+  color: pink;
+}
